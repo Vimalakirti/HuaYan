@@ -11,7 +11,11 @@ There are some statistics for Avatamsaka Sutra in Chinese
 ```
 ~ $ python3 1.py
 ```
-
+- 想找《大方廣佛華嚴經》的哪一位大德嗎？
+```
+~ $ python3 find_someone.py
+輸入大德名稱： （請輸入字串）
+```
 
 ## Source of Sutra
 [《大方廣佛華嚴經》](https://cbetaonline.dila.edu.tw/zh/T0279)
